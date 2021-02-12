@@ -1,0 +1,18 @@
+---
+title: "final project ideas"
+author: "Kiyeon Lee"
+date: "2/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Gov50-Data Final Project Ideas
+
+The goal of my final project is to help people start new profitable ventures by creating an informative data visualization. Depending on the availability of datasets, I plan to focus on one of the following questions.
+
+1) User needs. What products or services do people actually need and will pay for? What problems have many customers expressed online? How are people and organizations spending money? 
+
+2) Startup success. What type of startups have historically been most successful? What are untapped and high-potential startup ideas, products, or industries that don't require much capital resources? Is the risk and pain of startup life worth it compared to other stable jobs? 
